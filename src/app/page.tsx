@@ -7,7 +7,6 @@ import {
   Brain,
   Building,
   Users,
-  ZoomIn,
 } from "lucide-react";
 import { ImageModal } from "@/components/image-modal";
 import { Card, CardContent } from "@/components/ui/card";
