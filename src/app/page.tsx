@@ -198,7 +198,6 @@ export default function Home() {
             ))}
           </div>
         </div>
-        <div className="absolute top-1/2 left-0 w-96 h-96 bg-blue-200 rounded-full mix-blend-multiply filter blur-xl opacity-30 animate-blob"></div>
       </section>
 
       <section className="relative py-12 bg-blue-50 sm:py-16 lg:py-20 overflow-hidden">
